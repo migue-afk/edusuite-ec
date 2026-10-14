@@ -1,4 +1,4 @@
-### Project Overview
+# Project Overview
 
 ## Step 1. Create Python Virtual Environment
 
