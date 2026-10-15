@@ -19,3 +19,6 @@ python generator.py
 
 A file named `CertificadoNotas_Demo.pdf` will be generated, containing academic certificates that list the grades and grade point averages of all students data that must be obtained via the [academico.gob.ec](https://academico.educarecuador.gob.ec/) platform, 
 in this case, the resulting file is named `Notas_Demo.xlsx`
+
+
+![example](assets/docs/result-preview.png)
